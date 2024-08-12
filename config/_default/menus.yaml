@@ -1,0 +1,75 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Participate
+    identifier: participate
+    weight: 10
+  - name: Call for Tutorials
+    parent: participate
+    url: cft
+    weight: 10
+  - name: Call for Papers
+    parent: participate
+    url: cfp
+    weight: 20
+  - name: Register
+    parent: participate
+    # url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
+    weight: 30
+  - name: Sponsor
+    parent: participate
+    url: sponsor
+    weight: 40
+  - name: Attend
+    identifier: attend
+    weight: 20
+  - name: Travel & Venue
+    parent: attend
+    url: venue
+    weight: 3
+  - name: Housing
+    parent: attend
+    url: housing
+    weight: 5
+  - name: Health & Safety
+    parent: attend
+    url: health
+    weight: 10
+  - name: Diversity & Inclusion
+    parent: attend
+    url: diversity
+    weight: 20
+  - name: Code of Conduct
+    parent: attend
+    url: conduct
+    weight: 30
+  - name: Program
+    identifier: program
+    weight: 30
+  - name: Agenda
+    parent: program
+    # url: https://docs.google.com/document/d/1FIeUcsjyf3JVr64sj8gWoDJrNc6C0467Q0VPKKj2Ux4/edit?usp=sharing
+    weight: 10
+  - name: Featured Keynote Speakers
+    parent: program
+    url: keynotes
+    weight: 20
+#  - name: Proceedings
+#    parent: program
+#    url: https://dl.acm.org/doi/proceedings/10.1145/3589806
+#    weight: 30
+#  - name: Conference Summary
+#    parent: program
+#    url: https://acm-rep.github.io/post/20230714-acmrep23/
+  #- name: Contact Us
+  #  url: contact
+  #  weight: 40
+  - name: ACM REP
+    url: https://acm-rep.github.io/
+    weight: 50
+  - name: ACM EIGREP
+    url: https://reproducibility.acm.org/
+    weight: 60
