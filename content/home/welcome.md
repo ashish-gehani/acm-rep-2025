@@ -6,17 +6,17 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: 2024 ACM Conference on Reproducibility and Replicability
+title: 2025 ACM Conference on Reproducibility and Replicability
 subtitle: |
-  June 18-20, 2024  
-  INRIA | Rennes, France | \#acmrep  
+  July 28 - August 1, 2025  
+  Univeristy of British Columbia | Vancouver, Canada | \#acmrep  
   This is a *hybrid event* -- remote participation is welcome.
 active: true
 design:
   columns: '1'
   background:
-    image: inriaBuilding.jpg
-    image_darken: 0.4
+    image: ubc-vancouver.jpg
+    image_darken: 0.5
     image_parallax: false
     image_position: center
     image_size: cover
@@ -26,6 +26,6 @@ design:
 advanced:
   css_class: 
 ---
-**Contact**: [TBD](mailto:group@example.com)
+**Contact**: [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu)
 
 

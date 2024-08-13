@@ -26,7 +26,7 @@ Papers must be submitted in PDF format according to the ACM template published i
 
 ### Submission Site
 
-The conference submission site is https://acm-rep24.hotcrp.com
+The conference submission site is https://acm-rep25.hotcrp.com
 
-{{< cta cta_text="Submit -->" cta_link="https://acm-rep24.hotcrp.com/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="https://acm-rep25.hotcrp.com/" cta_new_tab="false" >}}
 

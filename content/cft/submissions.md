@@ -8,14 +8,14 @@ active: true
 ---
 
 Tutorial proposals should be submitted in PDF format via the HotCRP submission site:
-[http://hotcrp.com/…](https://acmrep-tutorials24.hotcrp.com). The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)) .
+[http://hotcrp.com/…](https://acmrep-tutorials25.hotcrp.com). The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)) .
 
 ### Proposal Information
 
 - Title and abstract of the tutorial 
 - Name, email address, affiliation and brief professional biography of the tutorial instructor(s).
 - Tutorial description:
-    - learning objectives of the tutorial and relevance to ACM REP 2024
+    - learning objectives of the tutorial and relevance to ACM REP 2025
     - targeted audience (introductory, intermediate, advanced) and prerequisite knowledge or skills;
 a brief outline of the tutorial structure; practical sessions.
 - Tutorial length: full (6 hours) or half day (3 hours).

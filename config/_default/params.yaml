@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/acm-rep/2024'
+    url: 'https://github.com/acm-rep/2025'
     content_dir: content
     branch: main
   avatar:

@@ -12,9 +12,8 @@ active: true
 <a class="twitter-timeline" data-width="300" data-height="800" data-theme="light" href="https://twitter.com/acmrep?ref_src=twsrc%5Etfw">Tweets by acmrep</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 -->
 
-### General Chairs
-Tanu Malik (DePaul University)  
-Jay Lofstead (Sandia National Laboratories)  
+### General Chair(s)
+Thomas Pasquier (University of British Columbia)  
 
 ### Program Chairs
 TBD  
@@ -23,7 +22,7 @@ TBD
 TBD  
 
 ### Local Arrangements
-Camille Maumet (INRIA)
+TBD
   
 
 ### Proceedings

@@ -7,9 +7,9 @@ subtitle: ""
 active: true
 ---
 
-<span style=color:blue;font-weight:bold>Paper submission (Long and Short):  January 29, 2024</span>  
-<span style=color:black>Notification of acceptance:  May 3, 2024</span>  
-<span style=color:black>Camera-ready copy:  May 24, 2024</span>  
-Conference:  June 18-20, 2024  
+<span style=color:blue;font-weight:bold>Paper submission (Long and Short):  TBD</span>  
+<span style=color:black>Notification of acceptance:  TBD</span>  
+<span style=color:black>Camera-ready copy:  TBD</span>  
+Conference:  July 28 - August 1, 2025  
 
-{{< cta cta_text="Submit -->" cta_link="https://acm-rep24.hotcrp.com/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="https://acm-rep25.hotcrp.com/" cta_new_tab="false" >}}

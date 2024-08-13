@@ -10,11 +10,11 @@ main:
   - name: Call for Tutorials
     parent: participate
     url: cft
-    weight: 10
+    weight: 20
   - name: Call for Papers
     parent: participate
     url: cfp
-    weight: 20
+    weight: 10
   - name: Register
     parent: participate
     # url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
