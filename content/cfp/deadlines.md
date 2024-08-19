@@ -10,6 +10,6 @@ active: true
 <span style=color:blue;font-weight:bold>Paper submission (Long and Short):  TBD</span>  
 <span style=color:black>Notification of acceptance:  TBD</span>  
 <span style=color:black>Camera-ready copy:  TBD</span>  
-Conference:  July 28 - August 1, 2025  
+Conference:  July 29 - 31, 2025  
 
 {{< cta cta_text="Submit -->" cta_link="https://acm-rep25.hotcrp.com/" cta_new_tab="false" >}}

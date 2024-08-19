@@ -8,8 +8,8 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: 2025 ACM Conference on Reproducibility and Replicability
 subtitle: |
-  July 28 - August 1, 2025  
-  Univeristy of British Columbia | Vancouver, Canada | \#acmrep  
+  July 29 - 31, 2025  
+  University of British Columbia | Vancouver, Canada | \#acmrep  
   This is a *hybrid event* -- remote participation is welcome.
 active: true
 design:
