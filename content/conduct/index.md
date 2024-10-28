@@ -2,7 +2,7 @@
 title: "Code of Conduct"
 ---
 {{% callout warning %}}
-Under construction -- Will be completed soon.
+Under construction -- Will be completed soon. The text below is just a placeholder.
 {{% /callout %}}
 
 The steering committee of ACM REP '24 believes in respect, compassion, understanding and inclusion and we expect all community members to act in accordance with these values. Fostering the free exchange of ideas requires building a conference that welcomes people of all backgrounds. Diversity of opinion and background is a fundamental strength of our community. The members of our community must have the freedom to espouse and explore a wide range of ideas. Toward that goal, ACM REP '24 aims to create spaces where every participant can express themselves without fear of judgment or harassment.

@@ -20,6 +20,12 @@ sections:
       title: Sponsor Benefits
       subtitle: ''
       text: |-
+        
+        
+        {{% callout warning %}}
+        Under construction -- Will be completed soon. The text below is just a placeholder.
+        {{% /callout %}}
+        
         Does your organization want to support and promote reproducibility and open science in academia? Do you want to foster collaboration between industry, academia and open source communities? Why not be a sponsor for the 2024 ACM Conference on Reproducibility and Replicability (ACM REP '24)?  
 
         Organizations that sponsor this event will be given public acknowledgement on the conference website and agenda, and get free passes for in-person participation.

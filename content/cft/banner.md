@@ -24,6 +24,10 @@ advanced:
   css_class: 
 ---
 
+{{% callout warning %}}
+Under construction -- Will be completed soon. The text below is just a placeholder.
+{{% /callout %}}
+
 The 2025 ACM Conference on Reproducibility and Replicability (ACM REP '25) aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The first-of-its-kind conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites tutorials related to reproducibility and independent verification. 
 
 The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). 

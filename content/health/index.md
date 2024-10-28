@@ -3,7 +3,7 @@ title: "Health & Safety"
 ---
 
 {{% callout warning %}}
-Under construction -- Will be completed soon.
+Under construction -- Will be completed soon. The text below is just a placeholder.
 {{% /callout %}}
 
 We are delighted to welcome attendees to our meeting at INRIA, Rennes University, while also acknowledging continued concerns about the spread of COVID and other health and safety issues. Our team is monitoring the latest guidance and regulations, and our policies align with public health orders. We will follow venue and local regulations regarding masking, distancing, and related health measures.  

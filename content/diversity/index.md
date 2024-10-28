@@ -3,7 +3,7 @@ title: "Diversity & Inclusion"
 ---
 
 {{% callout warning %}}
-Under construction -- Will be completed soon.
+Under construction -- Will be completed soon. The text below is just a placeholder.
 {{% /callout %}}
 
 **ACM REP is committed to Diversity, Equity, and Inclusion in Computing and Reproducibility.**
