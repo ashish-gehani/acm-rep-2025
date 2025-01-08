@@ -15,8 +15,8 @@ active: true
 ### General Chair(s)
 Thomas Pasquier (University of British Columbia)  
 
-### Program Chairs
-TBD  
+### Program Chair(s)
+Ashish Gehani (SRI)   
 
 ### Tutorial Chair
 TBD  
