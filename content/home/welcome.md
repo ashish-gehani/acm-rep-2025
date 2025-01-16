@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: 2025 ACM Conference on Reproducibility and Replicability
 subtitle: |
   July 29 - 31, 2025  
-  University of British Columbia | Vancouver, Canada | \#acmrep  
+  University of British Columbia | Vancouver, Canada | [\@acm-rep](https://www.linkedin.com/company/acm-rep)  
   This is a *hybrid event* -- remote participation is welcome.
 active: true
 design:

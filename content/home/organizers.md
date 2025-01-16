@@ -16,18 +16,19 @@ active: true
 Thomas Pasquier (University of British Columbia)  
 
 ### Program Chair(s)
-Ashish Gehani (SRI)   
+Ashish Gehani (SRI)  
 
 ### Tutorial Chair
 TBD  
 
 ### Local Arrangements
-TBD
+TBD  
   
-
 ### Proceedings
-TBD
+TBD  
 
 ### Public Relations
 TBD  
 
+### Website
+Carlos Maltzahn (UC Santa Cruz)

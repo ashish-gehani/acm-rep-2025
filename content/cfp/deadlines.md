@@ -14,4 +14,4 @@ active: true
 <span style=color:black>Camera-ready copy: July 14, 2025</span>  
 Conference:  July 29 - 31, 2025  
 
-{{< cta cta_text="Submit -->" cta_link="https://acm-rep25.hotcrp.com/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
