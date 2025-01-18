@@ -7,9 +7,9 @@ subtitle: ""
 active: true
 ---
 
-ACM REP '25 invites submissions in several categories as described below with focus on computing disciplines within computer science and across scientific computing disciplines of biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference encourages submissions in which experimental results are reproducible in of themselves and, if not, then sufficiently documents the reproducibility experience. 
+ACM REP '25 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
 
-Topics of interest include, but are not limited to, the following as they relate to various aspects of reproducibility and replicability. 
+The conference addresses various aspects of reproducibility and replicability, including but not limited to the following topics: 
 
 ### Reproducibility Concepts 
 - Experiment dependency management.
@@ -32,7 +32,8 @@ Topics of interest include, but are not limited to, the following as they relate
 - Usability and adaptability of reproducibility frameworks into already-established domain-specific tools.
 - Frameworks for sociological constructs to incentivize paradigm shifts.
 - Policies around publication of articles/software.
-- Experiences within computational science communities
+- Experiences within computational science communities.
+- Experience comparing published systems in a domain.
 
 ### Broader Reproducibility
 - Cost-benefit analysis frameworks for reproducibility.
