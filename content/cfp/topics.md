@@ -33,7 +33,15 @@ The conference addresses various aspects of reproducibility and replicability, i
 - Frameworks for sociological constructs to incentivize paradigm shifts.
 - Policies around publication of articles/software.
 - Experiences within computational science communities.
+
+### Systems and Security Concerns
 - Experience comparing published systems in a domain.
+- Tools to support replicability of system analysis.
+- Designing machine learning workflows to support reproducibility.
+- Reproducing real-world security findings.
+- Privacy concerns arising from reproducibility.
+- Challenges of reproducing security experiments.
+- Securing reproducibility infrastructure.
 
 ### Broader Reproducibility
 - Cost-benefit analysis frameworks for reproducibility.
