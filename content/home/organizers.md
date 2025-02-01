@@ -12,11 +12,12 @@ active: true
 <a class="twitter-timeline" data-width="300" data-height="800" data-theme="light" href="https://twitter.com/acmrep?ref_src=twsrc%5Etfw">Tweets by acmrep</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 -->
 
-### General Chair(s)
+### General Chair
 Thomas Pasquier (University of British Columbia)  
 
-### Program Chair(s)
+### Program Chairs
 Ashish Gehani (SRI)  
+Khalid Belhajjame (University Paris - Dauphine)
 
 ### Tutorial Chair
 TBD  
