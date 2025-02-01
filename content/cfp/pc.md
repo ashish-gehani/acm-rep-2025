@@ -10,8 +10,10 @@ design:
   css_class: null
 ---
 
-### Program Chair(s)
-Ashish Gehani (SRI) 
+### Program Chairs
+Ashish Gehani (SRI)
+
+Khalid Belhajjame (University Paris - Dauphine)
 
 ### Program Committee
 

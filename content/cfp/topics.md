@@ -33,6 +33,7 @@ The conference addresses various aspects of reproducibility and replicability, i
 - Frameworks for sociological constructs to incentivize paradigm shifts.
 - Policies around publication of articles/software.
 - Experiences within computational science communities.
+- Collecting datasets from laboratory / real-world settings.
 
 ### Systems and Security Concerns
 - Experience comparing published systems in a domain.
