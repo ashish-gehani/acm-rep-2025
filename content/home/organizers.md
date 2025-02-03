@@ -30,7 +30,7 @@ TBD
 TBD  
 
 ### Public Relations
-Sarah Cohen-Boulakia (CNRS)  
+Sarah Cohen-Boulakia (Paris-Saclay University)  
 
 ### Website
 Carlos Maltzahn (UC Santa Cruz)  
