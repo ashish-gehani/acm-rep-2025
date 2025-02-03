@@ -48,6 +48,7 @@ There may be cases (such as those involving Title IX issues in the United States
 {{% /callout %}}
 
 General Chair: Thomas Pasquier  
-Program Chairs: Ashish Gehani & Khalid Belhajjame
+Program Chairs: Ashish Gehani & Khalid Belhajjame  
+Tutorial Chairs: Line Pouchard & Tanzima Islam  
 
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).

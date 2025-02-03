@@ -44,7 +44,8 @@ All submitted tutorial proposals will be evaluated based on the following criter
 background/experience of tutorial instructor(s) in teaching the target topics.
 
 ### Tutorial Chairs
-TBD
+Line Pouchard (Sandia National Laboratories)  
+Tanzima Islam (Texas State University)  
 
 ### Contact Information
 For questions and more details, please contact the tutorial organizer at TBD
