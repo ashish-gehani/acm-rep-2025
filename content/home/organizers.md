@@ -17,10 +17,11 @@ Thomas Pasquier (University of British Columbia)
 
 ### Program Chairs
 Ashish Gehani (SRI)  
-Khalid Belhajjame (University Paris - Dauphine)
+Khalid Belhajjame (University Paris - Dauphine)  
 
-### Tutorial Chair
-TBD  
+### Tutorial Chairs
+Line Pouchard (Sandia National Laboratories)  
+Tanzima Islam (Texas State University)  
 
 ### Local Arrangements
 TBD  
@@ -29,7 +30,7 @@ TBD
 TBD  
 
 ### Public Relations
-TBD  
+Sarah Cohen-Boulakia (CNRS)  
 
 ### Website
-Carlos Maltzahn (UC Santa Cruz)
+Carlos Maltzahn (UC Santa Cruz)  
