@@ -23,8 +23,11 @@ Khalid Belhajjame (University Paris - Dauphine)
 Line Pouchard (Sandia National Laboratories)  
 Tanzima Islam (Texas State University)  
 
-### Local Arrangements
+### Poster Chair
 TBD  
+
+### Local Arrangements Chair
+Nguyen Phong Hoang (University of British Columbia)  
   
 ### Proceedings
 TBD  
