@@ -24,7 +24,7 @@ Line Pouchard (Sandia National Laboratories)
 Tanzima Islam (Texas State University)  
 
 ### Poster Chair
-TBD  
+Ana Trišović (MIT)  
 
 ### Local Arrangements Chair
 Nguyen Phong Hoang (University of British Columbia)  
