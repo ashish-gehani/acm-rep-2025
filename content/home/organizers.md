@@ -30,7 +30,7 @@ Ana Trišović (MIT)
 Nguyen Phong Hoang (University of British Columbia)  
   
 ### Proceedings
-TBD  
+Philippe Bonnet (University of Copenhagen)  
 
 ### Public Relations
 Sarah Cohen-Boulakia (Paris-Saclay University)  
