@@ -34,10 +34,10 @@ main:
     parent: attend
     url: housing
     weight: 5
-  - name: Health & Safety
-    parent: attend
-    url: health
-    weight: 10
+#  - name: Health & Safety
+#    parent: attend
+#    url: health
+#    weight: 10
   - name: Diversity & Inclusion
     parent: attend
     url: diversity
