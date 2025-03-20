@@ -6,6 +6,6 @@ title: "Important Dates"
 subtitle: ""
 active: true
 ---
-<span style=color:blue;font-weight:bold>Tutorial submission:  TBD</span>  
-<span style=color:black>Notification of acceptance: TBD</span>  
+<span style=color:black;font-weight:bold>Tutorial submission:  April 30, 2025</span>  
+<span style=color:black>Notification of acceptance: May 26, 2025</span>  
 
