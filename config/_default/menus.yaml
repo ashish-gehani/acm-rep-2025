@@ -15,6 +15,10 @@ main:
     parent: participate
     url: cfp
     weight: 10
+  - name: Call for Posters
+    parent: participate
+    url: cfposters
+    weight: 25
   - name: Register
     parent: participate
     # url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
