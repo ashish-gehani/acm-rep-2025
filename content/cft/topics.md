@@ -7,6 +7,6 @@ subtitle: ""
 active: true
 ---
 
-Tutorial submissions are encouraged for any topic aligned with the areas of interest outlined in ACM REP 2025 [Call for Papers](/cfp).
+Tutorial submissions are encouraged for any topic aligned with the areas of interest outlined in ACM REP 2025 [Call for Papers](/2025/cfp/#topics).
 
 
