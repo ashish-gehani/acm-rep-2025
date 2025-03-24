@@ -1,10 +1,6 @@
 ---
 title: "Code of Conduct"
 ---
-{{% callout warning %}}
-Under construction -- Will be completed soon. The text below is just a placeholder.
-{{% /callout %}}
-
 The steering committee of ACM REP '24 believes in respect, compassion, understanding and inclusion and we expect all community members to act in accordance with these values. Fostering the free exchange of ideas requires building a conference that welcomes people of all backgrounds. Diversity of opinion and background is a fundamental strength of our community. The members of our community must have the freedom to espouse and explore a wide range of ideas. Toward that goal, ACM REP '24 aims to create spaces where every participant can express themselves without fear of judgment or harassment.
 
 The ACM REP Code of Conduct guides the expected, professional behavior of conference participants, including:
@@ -50,5 +46,7 @@ There may be cases (such as those involving Title IX issues in the United States
 General Chair: Thomas Pasquier  
 Program Chairs: Ashish Gehani & Khalid Belhajjame  
 Tutorial Chairs: Line Pouchard & Tanzima Islam  
+Poster Chair: Ana Trišović  
+Local Arrangements Chair: Nguyen Phong Hoang  
 
 This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).

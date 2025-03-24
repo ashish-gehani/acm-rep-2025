@@ -2,10 +2,6 @@
 title: "Diversity & Inclusion"
 ---
 
-{{% callout warning %}}
-Under construction -- Will be completed soon. The text below is just a placeholder.
-{{% /callout %}}
-
 **ACM REP is committed to Diversity, Equity, and Inclusion in Computing and Reproducibility.**
 
 Following [the model set forth by the overall ACM community](https://www.acm.org/diversity-inclusion/about), the ACM REP community encompasses the wide range and diverse set of professionals working on reproducibility and  computing, from educators and researchers to software and hardware developers, system engineers, project managers, and data scientists.
