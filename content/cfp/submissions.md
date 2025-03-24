@@ -6,7 +6,7 @@ title: "Submission Guidelines"
 subtitle: ""
 active: true
 ---
-We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2025 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material should also be anonymized.
+We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2025 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material (including code repositories) should also be anonymized.
 
 ACM REP submissions can be research, survey, vision, or experience papers. Submissions will be evaluated according to their significance, originality, technical content, style, clarity, relevance, and likelihood of generating discussion. Authors should note that changes to the author list after the submission deadline are not allowed without permission from the PC Chairs. At least one author of each accepted paper is required to register for, attend, and present the work at the conference. 
 
@@ -16,11 +16,11 @@ In-person attendance and presentation is highly encouraged, but remote participa
 
 ### Research Papers (Long and Short)
 
-We solicit both full length papers (10 pages) and short papers (4 pages). The former tend to be descriptions of complete technical work, while the latter tend to be descriptions of interesting, innovative ideas, which nevertheless require more effort to mature. The program committee may decide to accept some full papers as short papers. Full papers will be given a presentation slot in the conference, while short papers will be presented in the form of posters. All papers, regardless of size, will be given an entry in the conference proceedings. The page limit is without references and/or appendices. Authors may optionally include reproducibility information that allows for automated validation of experimental results. (See the artifact evaluation criteria below.) Accepted submissions that pass automated validation will earn ACM Reproducibility badges in accordance with the artifact review and validation policy.
+We solicit both full length papers (10 pages) and short papers (4 pages). The former tend to be descriptions of complete technical work, while the latter tend to be descriptions of interesting, innovative ideas, which nevertheless require more effort to mature. The page limit is without references and/or appendices. The Program Committee may decide to accept some full papers as poster papers. Full and short papers will be given a presentation slot in the conference. All papers, regardless of size, will be given an entry in the conference proceedings.
 
 ### Artifact Availability Criteria
 
-The conference will also be soliciting code/data artifacts. For submitted papers, these artifacts will be optional supplemental material and solicited based on the program committee's criteria. The artifacts will be mandatory for accepted full papers with experimental results. The artifacts will be reviewed by the Program Committee, and those that pass will be awarded [Artifact Availability Badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) per ACM policy.
+For full papers with experimental results, submission of accompanying artifacts is mandatory. The artifacts will be reviewed by the Program Committee, and those that pass will be awarded [Artifact Availability Badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) per ACM policy.
 
 ### Formatting 
 
