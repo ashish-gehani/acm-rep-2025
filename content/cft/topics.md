@@ -7,18 +7,6 @@ subtitle: ""
 active: true
 ---
 
-Topics of interest include, but are not limited to:
-- Reproducibility Concepts 
-- Experiment dependency management.
-- Experiment portability for code, performance, and related metrics.
-- Software and artifact packaging and container-related reproducibility methods. 
-- Data versioning and preservation.
-- Provenance of data-intensive experiments.
-- Reproducible builds.
-- Reproducibility-aware computational infrastructure.
-- Experiment discoverability for re-use.
-- Approaches for advancing reproducibility.
-
-For an in-depth list of topics, see also the ACM REP '25 [Call for Papers](/cfp).
+Tutorial submissions are encouraged for any topic aligned with the areas of interest outlined in ACM REP 2025 [Call for Papers](/cfp).
 
 

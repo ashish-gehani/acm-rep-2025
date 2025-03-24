@@ -12,17 +12,18 @@ Tutorial proposals should be submitted in PDF format via the HotCRP submission s
 
 ### Proposal Information
 
-- Title and abstract of the tutorial 
+- Title and abstract of the tutorial.
 - Name, email address, affiliation and brief professional biography of the tutorial instructor(s).
 - Tutorial description:
-    - learning objectives of the tutorial and relevance to ACM REP 2025
-    - targeted audience (introductory, intermediate, advanced) and prerequisite knowledge or skills;
-a brief outline of the tutorial structure; practical sessions.
+    - Learning Objectives: Clearly state the tutorial’s key learning outcomes and explicitly describe their relevance to the goals and themes of ACM REP 2025.
+    - Intended Audience: Clearly indicate the targeted proficiency level (Introductory, Intermediate, or Advanced).
+    - Audience Prerequisites: Specify required knowledge and skills clearly. Provide a brief tutorial outline highlighting key sections, with particular emphasis on hands-on practical sessions.
+    - Tutorial Delivery: Clearly outline your strategies for actively engaging the audience throughout the tutorial. Examples include interactive coding demonstrations using Jupyter notebooks, panel discussions, live audience polling through platforms like Mentimeter, and structured group discussions on focused micro-topics. Tutorials relying solely on slides for the entire duration (e.g., three hours) will not be accepted, as they do not foster meaningful learning or participation.
 - Tutorial length: full (6 hours) or half day (3 hours).
-- Any special equipment/software needs for the tutorial
+- Any special equipment/software needs for the tutorial.
 
 ### Tutorial Online Presence
-Accepted tutorials will be required to prepare a tutorial web page containing detailed information about the tutorial content, schedule and organization. Tutorial organizers are also responsible for the timely production and distribution of all material to be used during the tutorial (slides, notes, technical articles, etc.). In the case of a hands-on tutorial requiring software, it is strongly recommended that organizers place any software prerequisites online for participants to download and install before the start of the tutorial. 
+Accepted tutorials will be required to prepare a web page containing detailed information about the tutorial content, schedule and organization. Tutorial organizers are also responsible for the timely production and distribution of all material to be used during the tutorial (slides, notes, technical articles, etc.). In the case of a hands-on tutorial requiring software, it is strongly recommended that organizers place any software prerequisites online for participants to download and install before the start of the tutorial. 
 
 ### Tutorial Format
 We encourage tutorial proponents to decide and motivate if and why their tutorial works (only) in an in-person, hybrid, or online format. 
@@ -41,7 +42,8 @@ All submitted tutorial proposals will be evaluated based on the following criter
 - clarity and quality of the tutorial, which should emerge from its description;
 - good organization, as appearing from the outline;
 - the value of any materials released with the tutorial for the community;
-background/experience of tutorial instructor(s) in teaching the target topics.
+- preference will be given to tutorials that favor audience engagement and interactive content;
+- background/experience of tutorial instructor(s) in teaching the target topics.
 
 ### Tutorial Chairs
 Line Pouchard (Sandia National Laboratories)  
