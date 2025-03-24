@@ -32,6 +32,6 @@ The 3rd ACM Conference on Reproducibility and Replicability (ACM REP '25) aims t
 {{< cta cta_text="Important Dates" cta_link="#deadlines" cta_new_tab="false" >}}
 {{< cta cta_text="Submit -->" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
 
-The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/). (See ACM REP's [history](https://acm-rep.github.io/history).) All accepted papers will be published in the ACM - International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library.
+The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/). (See ACM REP's [history](https://acm-rep.github.io/history).) All accepted papers will be published in the ACM Digital Library.
 
 **Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [**Important Dates**](#deadlines) | [Program Committee](#pc)
