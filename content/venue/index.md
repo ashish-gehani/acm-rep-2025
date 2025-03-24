@@ -8,7 +8,7 @@ sections:
   - block: markdown
     id: getting-there
     content:
-      title: "Directions: Getting There"
+      title: "Directions: Getting to UBC"
       text: |-
         {{% callout warning %}}
         Under construction -- Will be completed soon.
@@ -31,11 +31,22 @@ sections:
   - block: markdown
     id: venue
     content:
-      title: "Venue"
+      title: "Venue: UBC - Allard Hall"
       text: |-
-        {{% callout warning %}}
-        Under construction -- Will be completed soon.
-        {{% /callout %}}
+        The conference will take place at **Peter A. Allard School of Law** at the **University of British Columbia (UBC)** in Vancouver, Canada.
+
+        Located on UBC’s stunning Point Grey campus, **Allard Hall** offers state-of-the-art facilities, beautiful architecture, and is just a short walk from the Pacific Ocean and forested trails. The building is home to modern classrooms, collaborative spaces, and a light-filled forum ideal for networking and social events.
+
+        Address:  
+        Peter A. Allard School of Law  
+        Allard Hall, University of British Columbia  
+        1822 East Mall, Vancouver, BC V6T 1Z1, Canada
+
+        For more information about the venue, visit:  
+        [https://allard.ubc.ca/about-us/allard-hall](https://allard.ubc.ca/about-us/allard-hall)
+
+        ![Allard Hall](https://allard.ubc.ca/sites/default/files/styles/max_970x970/public/2020-05/s07_1759.jpg)  
+        *Exterior view of Allard Hall at UBC*
     design:
       columns: '2'
 
