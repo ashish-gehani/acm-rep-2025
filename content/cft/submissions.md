@@ -7,8 +7,9 @@ subtitle: ""
 active: true
 ---
 
-Tutorial proposals should be submitted in PDF format via the HotCRP submission site:
-[http://hotcrp.com/…](https://acmrep-tutorials25.hotcrp.com). The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)) .
+Tutorial proposals should be submitted in PDF format via the submission site: **TBD**  
+
+The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)).  
 
 ### Proposal Information
 
@@ -50,6 +51,6 @@ Line Pouchard (Sandia National Laboratories)
 Tanzima Islam (Texas State University)  
 
 ### Contact Information
-For questions and more details, please contact the tutorial organizer at TBD
+For questions and more details, please contact the tutorial organizers at [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu).
 
 

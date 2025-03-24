@@ -28,6 +28,7 @@ advanced:
 ---
 
 {{< cta cta_text="Call for Papers: March 31, 2025, 23:59 AOE" cta_link="/2025/cfp" >}}
+{{< cta cta_text="Call for Tutorials: April 30, 2025, 23:59 AOE" cta_link="/2025/cft" >}}
 
 **Contact**: [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu)
 
