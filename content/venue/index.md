@@ -10,23 +10,56 @@ sections:
     content:
       title: "Directions: Getting to UBC"
       text: |-
-        {{% callout warning %}}
-        Under construction -- Will be completed soon.
-        {{% /callout %}}
+        You can reach the University of British Columbia (UBC) by **public transit**, **bike**, or **car**. Public transit is highly recommended — it’s fast, affordable, environmentally friendly, and bikes are allowed on most transit routes.
+
+        ### 🚌 Public Transit
+
+        UBC is easily accessible via several **express bus routes** from across Metro Vancouver, including:
+        - R4 (Joyce–UBC RapidBus)
+        - 44 (Downtown Vancouver - UBC)
+        - 84 (VCC–UBC)
+        - 99 B-Line (Commercial–Broadway Station)
+        #### From Vancouver International Airport (YVR):
+        - Take the **Canada Line SkyTrain** from YVR to **Oakridge-41st Station**, then transfer to the **R4** bus westbound to UBC. The entire trip takes approximately **50–60 minutes** and is fully accessible.
+        - Take the **Canada Line SkyTrain** from YVR to **Broadway–City Hall Station**, then transfer to the **99 B-Line** bus westbound to UBC. The entire trip takes approximately **50–60 minutes** and is fully accessible.
+
+        Plan your trip using [TransLink’s Trip Planner](https://www.translink.ca/trip-planner) to find the most efficient route. Buses arrive at multiple points across campus — check signage and maps to find your return stop.
+
+        > Bikes are welcome on most transit buses — just inform the driver and load your bike onto the front rack.
+
+        ### 🚗 Driving & Parking
+
+        From **downtown Vancouver**, head west on 4th, 10th, or 16th Avenue after crossing the Burrard or Granville Street bridge.  
+        From **Vancouver International Airport (YVR)**, take SW Marine Drive after crossing the Arthur Laing Bridge.
+
+        UBC offers multiple **paid parking options**. Use the [UBC Parking Map](https://parking.ubc.ca/map) to find nearby parkades and check real-time availability.
+
+        - Pay for parking using on-site meters or the **Honk Mobile app**
+        - Reserved spots available for car shares (Evo, Modo, Zipcar)
+        - Ride-hailing services are supported with designated pick-up/drop-off zones
+
+        ### 🚴 Biking to UBC
+
+        UBC is bike-friendly and features dedicated cycling paths and secure bike parking across campus. Combine biking with transit for added flexibility.
+
+        For more details on getting to UBC, visit:  
+        [https://visit.ubc.ca/plan-your-trip/how-to-get-to-ubc](https://visit.ubc.ca/plan-your-trip/how-to-get-to-ubc)
+
+        ![UBC Vancouver Campus](https://live.staticflickr.com/65535/50517296122_26ebdde26c_o_d.jpg)  
     design:
       columns: '2'
 
-  - block: markdown
-    id: getting-around
-    content:
-      title: Getting Around
-      subtitle: ''
-      text: |-
-        {{% callout warning %}}
-        Under construction -- Will be completed soon.
-        {{% /callout %}}
-    design:
-      columns: '2'
+  # - block: markdown
+  #   id: getting-around
+  #   content:
+  #     title: Getting Around
+  #     subtitle: ''
+  #     text: |-
+  #       {{% callout warning %}}
+  #       Under construction -- Will be completed soon.
+  #       {{% /callout %}}
+  #   design:
+  #     columns: '2'
 
   - block: markdown
     id: venue
