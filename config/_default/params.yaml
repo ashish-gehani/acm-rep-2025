@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Regents of University of California. This work is licensed under {license}'
+    notice: '© {year} The University of British Columbia. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
