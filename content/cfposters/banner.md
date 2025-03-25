@@ -24,13 +24,10 @@ advanced:
   css_class: 
 ---
 
-{{% callout warning %}}
-Under construction -- Will be completed soon. The text below is just a placeholder.
-{{% /callout %}}
+The ACM Conference on Reproducibility and Replicability invites poster submissions showcasing innovative research and practical insights. Submissions should consist of a 2-page extended abstract, formatted according to the ACM standard conference template, clearly highlighting the contribution's relevance to reproducibility and replicability. Abstracts will undergo a review for applicability and will be competitively selected based on quality and available poster space. More details [here](#submissions).
 
-The ACM Conference on Reproducibility and Replicability is open for poster submissions. Each submission will consist of a 2-page extended abstract, including all content, following the ACM standard conference template. These 2-page abstracts will be reviewed for applicability and downselected for quality based on available poster space. More details [here](#submissions).
-
-{{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
+{{< cta cta_text="Important Dates" cta_link="#deadlines" cta_new_tab="false" >}}
+{{< cta cta_text="Submit -->" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
 
 We are using the following definitions of reproducibility and replicability as presented in the National Academies of Science, Engineering and Medicine report ["Reproducibility and Replication in Science"](https://doi.org/10.17226/25303) ([overview](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science)):
 
@@ -39,6 +36,8 @@ analysis. This definition is synonymous with â€œcomputational reproducibility.â€
 - Replicability is obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained
 its own data. Two studies may be considered to have replicated if they obtain consistent results given the level of uncertainty inherent in the system under study.
 
-The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). All accepted papers will be published by ACM - International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library.
+The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). 
+
+All accepted papers will be published in the ACM Digital Library.
 
 **Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [**Important Dates**](#deadlines)

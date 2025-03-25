@@ -7,9 +7,11 @@ subtitle: ""
 active: true
 ---
 
-Topics of interest include, but are not limited to, the following as they relate to various aspects of reproducibility and replicability.  
+ACM REP ‘25 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
 
-Computational Reproducibility Concepts  
+The conference addresses various aspects of reproducibility and replicability, including but not limited to the following topics:
+
+Reproducibility Concepts
 - Experiment dependency management.
 - Experiment portability for code, performance, and related metrics.
 - Software and artifact packaging and container-related reproducibility methods.
@@ -21,9 +23,8 @@ Computational Reproducibility Concepts
 - Reproducibility-aware computational infrastructure.
 - Experiment discoverability for re-use.
 - Approaches for advancing reproducibility.
-- Numerical results reproducibility, Statistical reproducibility
 
-Computational Reproducibility Experiences  
+Reproducibility Experiences
 - Experience of sharing and consuming reproducible artifacts.
 - Conference-scale artifact evaluation experiences and practices.
 - Experiences as part of hackathons and summer programs.
@@ -31,11 +32,20 @@ Computational Reproducibility Experiences
 - Usability and adaptability of reproducibility frameworks into already-established domain-specific tools.
 - Frameworks for sociological constructs to incentivize paradigm shifts.
 - Policies around publication of articles/software.
-- Experiences within computational science communities
+- Experiences within computational science communities.
+- Collecting datasets from laboratory / real-world settings.
 
-Broader Reproducibility  
+Systems and Security Concerns
+- Experience comparing published systems in a domain.
+- Tools to support replicability of system analysis.
+- Designing machine learning workflows to support reproducibility.
+- Reproducing real-world security findings.
+- Privacy concerns arising from reproducibility.
+- Challenges of reproducing security experiments.
+- Securing reproducibility infrastructure.
+
+Broader Reproducibility
 - Cost-benefit analysis frameworks for reproducibility.
 - Novel methods and techniques that impact reproducibility.
 - Reusability, repurposability, and replicability methods.
 - Long-term artifact archiving and verification/testing for future reproducibility.
-

@@ -7,21 +7,17 @@ subtitle: ""
 active: true
 ---
 
-To submit a 2-page extended abstract for a poster, please use [EasyChair submission site and choose the Posters track](https://easychair.org/conferences/?conf=acmrep24) (https://easychair.org/conferences/?conf=acmrep24). Each submission needs to consist of a 2-page extended abstract, including all content, following the ACM standard conference template. These 2-page abstracts will be reviewed for applicability and downselected for quality based on available poster space.  
+To submit a poster, authors must upload a 2-page extended abstract via the [EasyChair submission site, selecting the Poster option](https://easychair.org/my/conference?conf=acmrep2025). Submissions must follow the ACM standard conference template and clearly include all content within the required two pages. Abstracts will be evaluated for applicability and quality, and selections will be based on the availability of poster space. 
 
-Posters selected for presentation at the conference must fit within an A0 portrait size.  
+Accepted posters should conform to an A0 portrait format for presentation at the conference.
+
 
 {{% callout info %}}
-Authors of accepted poster submissions are expected to give a short talk about their poster in a lightening talk session. Of these authors only those who attend in person will get poster space. Of those who are not able to attend in person will not be given poster space but will still be able to present a remote/prerecorded lightening talk.
+Authors of accepted posters are expected to present a brief overview of their work during a lightning talk session. Only authors attending the conference in person will receive space to display their posters. Authors unable to attend in person will not be allocated poster space; however, they will still have the opportunity to deliver their lightning talk remotely or via prerecorded presentation.
 {{% /callout %}} 
 
-{{< cta cta_text="Submit -->" cta_link="https://easychair.org/conferences/?conf=acmrep24" cta_new_tab="false" >}}
+{{< cta cta_text="Submit" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
 
-For questions, please contact Jay Lofstead ([gflofst@sandia.gov](mailto:gflofst@sandia.gov)).  
-
-We look forward to your submissions!  
-
-Jay and Tanu  
-ACM Rep 2024 co-General Chairs
+For more information or inquiries, please contact Ana Trišović (ana_tris [at] mit.edu).
 
  
