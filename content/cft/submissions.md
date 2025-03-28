@@ -22,6 +22,7 @@ The authors should follow the single-column ACM format (see [acmsmall](https://w
     - Tutorial Delivery: Clearly outline your strategies for actively engaging the audience throughout the tutorial. Examples include interactive coding demonstrations using Jupyter notebooks, panel discussions, live audience polling through platforms like Mentimeter, and structured group discussions on focused micro-topics. Tutorials relying solely on slides for the entire duration (e.g., three hours) will not be accepted, as they do not foster meaningful learning or participation.
 - Tutorial length: full (6 hours) or half day (3 hours).
 - Any special equipment/software needs for the tutorial.
+- The proposal description must not exceed two pages in length.
 
 ### Tutorial Online Presence
 Accepted tutorials will be required to prepare a web page containing detailed information about the tutorial content, schedule and organization. Tutorial organizers are also responsible for the timely production and distribution of all material to be used during the tutorial (slides, notes, technical articles, etc.). In the case of a hands-on tutorial requiring software, it is strongly recommended that organizers place any software prerequisites online for participants to download and install before the start of the tutorial. 
