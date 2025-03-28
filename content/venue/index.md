@@ -49,18 +49,6 @@ sections:
     design:
       columns: '2'
 
-  # - block: markdown
-  #   id: getting-around
-  #   content:
-  #     title: Getting Around
-  #     subtitle: ''
-  #     text: |-
-  #       {{% callout warning %}}
-  #       Under construction -- Will be completed soon.
-  #       {{% /callout %}}
-  #   design:
-  #     columns: '2'
-
   - block: markdown
     id: venue
     content:
@@ -79,7 +67,29 @@ sections:
         [https://allard.ubc.ca/about-us/allard-hall](https://allard.ubc.ca/about-us/allard-hall)
 
         ![Allard Hall](https://allard.ubc.ca/sites/default/files/styles/max_970x970/public/2020-05/s07_1759.jpg)  
-        *Exterior view of Allard Hall at UBC*
+    design:
+      columns: '2'
+
+
+  - block: markdown
+    id: accommodation
+    content:
+      title: Accommodation
+      subtitle: ''
+      text: |-
+        We have arranged a **special conference rate** at UBC Suites, conveniently located within walking distance of the conference venue at Allard Hall.
+
+        Rooms are available at a discounted rate for stays between **July 28 and August 1, 2025**. We recommend booking early, as availability is limited and conference rates cannot be guaranteed after August 1, 2025.
+
+        You can reserve your room directly through the following link:  
+        👉 [Book your UBC accommodation here](https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=07%2F28%2F2025&endDate=08%2F01%2F2025&adults=1&children=&rooms=1&requesttype=invBlockCode&code=+%20G250727A)
+
+        If you have any questions or require assistance, contact the Reservations Office at:
+
+        **Hotel Reservations Office**  
+        Conferences and Accommodation at UBC  
+        Phone: 604-822-1000 (x3) or toll-free: 1-888-822-1030  
+        Email: [reservations@housing.ubc.ca](mailto:reservations@housing.ubc.ca)
     design:
       columns: '2'
 
@@ -112,6 +122,27 @@ sections:
         - Titles of any accepted papers or presentations (please indicate if you are the **sole author** or a **co-author**)  
 
         ACM does **not** provide letters for transport of vendor or presenter equipment. Such materials should be shipped to the conference facility with proper insurance.
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: land-acknowledgment
+    content:
+      title: "Land Acknowledgment"
+      text: |-
+        We acknowledge that the University of British Columbia’s Vancouver (Point Grey) campus — where our conference will be held — is located on the **traditional, ancestral, and unceded territory** of the **xʷməθkʷəy̓əm (Musqueam)** people.
+
+        This recognition is not only a sign of respect, but also an act of awareness and ongoing commitment to the Indigenous peoples whose relationship with this land continues to this day.
+
+        To learn more about UBC’s connection to the land and its relationship with the Musqueam Nation, we encourage you to explore the following resources:
+
+        - [Musqueam First Nation](http://www.musqueam.bc.ca)
+        - [UBC and Musqueam History](https://aboriginal.ubc.ca/community-youth/musqueam-and-ubc/)
+        - [Time and Place at UBC](https://timeandplace.ubc.ca)
+
+        > “Unceded” means that this land was never surrendered, relinquished, or handed over in any treaty or agreement.
+
+        ![Musqueam welcome post](https://vpfinance-dev.sites.olt.ubc.ca/files/2021/02/musquem-welcome-pole.png)
     design:
       columns: '2'
 ---
