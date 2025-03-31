@@ -79,7 +79,8 @@ sections:
       text: |-
         We have arranged a **special conference rate** at UBC Suites, conveniently located within walking distance of the conference venue at Allard Hall.
 
-        Rooms are available at a discounted rate for stays between **July 28 and August 1, 2025**. We recommend booking early, as availability is limited and conference rates cannot be guaranteed after August 1, 2025.
+        Rooms are available at a discounted rate for stays between **July 28 and August 1, 2025**.
+        We recommend booking early, as availability is limited. Preferred rates are only available for the dates above.
 
         You can reserve your room directly through the following link:  
         👉 [Book your UBC accommodation here](https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=07%2F28%2F2025&endDate=08%2F01%2F2025&adults=1&children=&rooms=1&requesttype=invBlockCode&code=+%20G250727A)
