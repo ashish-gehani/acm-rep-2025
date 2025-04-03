@@ -7,7 +7,7 @@ subtitle: ""
 active: true
 ---
 
-<span style=color:black>Abstract submission (Long and Short):</span> <span style=color:blue;font-weight:bold><s>March 31, 2025, 23:59 AOE</s> April 7, 2025, 23:59 AOE</span> 
+<span style=color:black>Abstract submission (Long and Short):</span> <span style=color:grey><s>March 31</s></span><span style=color:blue;font-weight:bold>April 7, 2025, 23:59 AOE</span> 
 <br>
 <span style=color:black>Paper submission (Long and Short):</span>  <span style=color:blue;font-weight:bold>April 7, 2025, 23:59 AOE</span>  
 <span style=color:black>First response to authors: May 12, 2025</span>  
