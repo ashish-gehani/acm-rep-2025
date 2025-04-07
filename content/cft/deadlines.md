@@ -9,3 +9,5 @@ active: true
 <span style=color:black>Tutorial submission:</span>  <span style=color:blue;font-weight:bold>April 30, 2025, 23:59 AOE</span>  
 <span style=color:black>Notification of acceptance: May 26, 2025</span>  
 
+{{< cta cta_text="Submit -->" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
+
