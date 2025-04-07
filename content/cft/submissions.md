@@ -7,7 +7,7 @@ subtitle: ""
 active: true
 ---
 
-Tutorial proposals should be submitted in PDF format via the submission site: **TBD**  
+Tutorial proposals should be submitted in PDF format via the submission site: https://acmrep2025-tutorials.hotcrp.com
 
 The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)).  
 
