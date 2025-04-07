@@ -7,9 +7,11 @@ subtitle: ""
 active: true
 ---
 
-Tutorial proposals should be submitted in PDF format via the submission site: https://acmrep2025-tutorials.hotcrp.com
+Tutorial proposals should be submitted in PDF format via the submission site: https://acmrep2025-tutorials.hotcrp.com  
 
 The authors should follow the single-column ACM format (see [acmsmall](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-large-1-column-format-template/fsyrjmfzcwyy)).  
+
+{{< cta cta_text="Submit -->" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
 
 ### Proposal Information
 
@@ -46,6 +48,8 @@ All submitted tutorial proposals will be evaluated based on the following criter
 - the value of any materials released with the tutorial for the community;
 - preference will be given to tutorials that favor audience engagement and interactive content;
 - background/experience of tutorial instructor(s) in teaching the target topics.
+
+{{< cta cta_text="Submit -->" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
 
 ### Tutorial Chairs
 Line Pouchard (Sandia National Laboratories)  
