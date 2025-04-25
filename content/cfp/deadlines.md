@@ -15,4 +15,4 @@ Notification of acceptance: June 23, 2025
 Camera-ready copy: July 14, 2025  
 Conference:  July 29 - 31, 2025  
 
-{{< cta cta_text="Submit -->" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
+{{< cta cta_text="Submission closed" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
