@@ -49,6 +49,10 @@ All submitted tutorial proposals will be evaluated based on the following criter
 - preference will be given to tutorials that favor audience engagement and interactive content;
 - background/experience of tutorial instructor(s) in teaching the target topics.
 
+{{% callout info %}}
+At least one author of each accepted tutorial is required to register for the conference. 
+{{% /callout %}}
+
 {{< cta cta_text="Submit -->" cta_link="https://acmrep2025-tutorials.hotcrp.com" cta_new_tab="true" >}}
 
 ### Tutorial Chairs
