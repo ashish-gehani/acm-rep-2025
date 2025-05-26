@@ -27,7 +27,7 @@ advanced:
   css_class: 
 ---
 
-{{< cta cta_text="Call for Papers: Revise and Resubmit on May 26, 2025" cta_link="/2025/cfp" >}}
+{{< cta cta_text="Call for Papers: Revise and Resubmit on May 27, 2025" cta_link="/2025/cfp" >}}
 {{< cta cta_text="Call for Tutorials: Notifications on June 2, 2025" cta_link="/2025/cft" >}}
 {{< cta cta_text="Call for Posters: May 26, 2025, 23:59 AOE" cta_link="/2025/cfposters" >}}
 
