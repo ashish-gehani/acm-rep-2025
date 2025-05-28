@@ -10,8 +10,8 @@ active: true
 <span style=color:grey>Abstract submission (Long and Short): <s>March 31</s>April 7, 2025, 23:59 AOE</span>  
 <span style=color:grey>Paper submission (Long and Short): April 7, 2025, 23:59 AOE</span>  
 <span style=color:grey>First response to authors: May 12, 2025</span>  
-Revise and Resubmit: <span style=color:grey><s>May 26</s></span><span style=color:blue;font-weight:bold>May 27, 2025</span>  
-Notification of acceptance: June 23, 2025  
+<span style=color:grey>Revise and Resubmit: <s>May 26</s>May 27, 2025</span>  
+Notification of acceptance: <span style=color:blue;font-weight:bold>June 23, 2025</span>  
 Camera-ready copy: July 14, 2025  
 Conference:  July 29 - 31, 2025  
 
