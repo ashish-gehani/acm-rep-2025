@@ -27,9 +27,9 @@ advanced:
   css_class: 
 ---
 
-{{< cta cta_text="Call for Papers: Revise and Resubmit on May 27, 2025" cta_link="/2025/cfp" >}}
-{{< cta cta_text="Call for Tutorials: Notifications on June 2, 2025" cta_link="/2025/cft" >}}
-{{< cta cta_text="Call for Posters: May 26, 2025, 23:59 AOE" cta_link="/2025/cfposters" >}}
+{{< cta cta_text="Call for Papers: Notification of Acceptpance on June 23, 2025" cta_link="/2025/cfp" >}}
+{{< cta cta_text="Call for Tutorials: Notification of Acceptance on June 2, 2025" cta_link="/2025/cft" >}}
+{{< cta cta_text="Call for Posters: Notification of Acceptance on June 23, 2025" cta_link="/2025/cfposters" >}}
 
 **Contact**: [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu)
 
