@@ -21,7 +21,7 @@ main:
     weight: 25
   - name: Register
     parent: participate
-    # url: https://web.cvent.com/event/693a4326-0443-4c14-948f-92f49b2d8fd3/summary
+    url: https://cvent.me/1aggea
     weight: 30
   - name: Sponsor
     parent: participate
