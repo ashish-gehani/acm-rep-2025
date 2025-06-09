@@ -27,20 +27,18 @@ groups to contact us.
 
 # Important Dates
 
-<span style=color:grey>Early-bird registration close: July 7</span>  
-<span style=color:grey>Registration close: July 25</span>
-<span style=color:grey>Conference:  July 29-31, 2025</span>  
+Early-bird registration close: <span style=color:blue;font-weight:bold>July 7</span>  
+Author registration close: <span style=color:blue;font-weight:bold>July 15</span>  
+Registration close: July 25  
+Conference: July 29-31, 2025  
 
 # Terms and Conditions
 
 ## Authors
-For each article accepted at ACM REP 2025, it is required to have at least one of the authors registered at the conference, with the commitment to present it at the conference - online presentations are accepted but require full on site registration as well. Paper without a full registration will be withdrawn from the program and the proceedings. The deadline for author registration is July 15, 2025.
+For each article accepted at ACM REP 2025, it is required to have at least one of the authors registered at the conference, with the commitment to present it at the conference - online presentations are accepted but require full on site registration as well. Paper without a full registration will be withdrawn from the program and the proceedings. **The deadline for author registration is**  <span style=color:blue;font-weight:bold>July 15, 2025</span>.
 
 ## Students
 Student fees are applicable only to full-time students. Students must be able to provide a proof of their student status (student ID card or certificate).
-
-## Substitution
-If you are unable to attend the conference, you can request the transfer of your registration to another participant by notifying the conference secretariat before the conference.
 
 # Cancellation Policy
 
