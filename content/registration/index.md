@@ -3,9 +3,9 @@ title: "Registration"
 ---
 
 {{% callout note %}}
-Registrations will be online only and will close on <s>June 8</s> June 20, 2024. **On-site registrations will not be available**.
-
+Registrations will be online only and will close on July 25, 2025. **On-site registrations will not be available**.
 {{% /callout %}}
+
 {{% cta cta_text="Register" cta_link="https://web.cvent.com/event/2da7dd28-2938-4ea7-b3e4-4a27b6c3c2e8/summary" cta_new_tab="false" %}}
 
 
