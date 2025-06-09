@@ -39,9 +39,6 @@ For each article accepted at ACM REP 2025, it is required to have at least one o
 ## Students
 Student fees are applicable only to full-time students. Students must be able to provide a proof of their student status (student ID card or certificate).
 
-## Substitution
-If you are unable to attend the conference, you can request the transfer of your registration to another participant by notifying the conference secretariat before the conference.
-
 # Cancellation Policy
 
 If a registrant is unable to attend an event for any reason they may substitute, by arrangement with the conference organizers, someone else from the same institute/organization.
