@@ -10,23 +10,23 @@ main:
   - name: Call for Tutorials
     parent: participate
     url: cft
-    weight: 20
+    weight: 40
   - name: Call for Papers
     parent: participate
     url: cfp
-    weight: 10
+    weight: 30
   - name: Call for Posters
     parent: participate
     url: cfposters
-    weight: 25
+    weight: 45
   - name: Register
     parent: participate
     url: registration
-    weight: 30
+    weight: 10
   - name: Sponsor
     parent: participate
     url: sponsor
-    weight: 40
+    weight: 20
   - name: Attend
     identifier: attend
     weight: 20
