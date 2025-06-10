@@ -26,9 +26,9 @@ design:
 advanced:
   css_class: 
 ---
-{{< cta cta_text="Register (early bird discount until July 7, 2025)" cta_link="https://cvent.me/1aggea" >}}
+{{< cta cta_text="Register (early bird discount until July 7, 2025)" cta_link="/2025/registration" >}}
+{{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC)" cta_link="/2025/venue" >}}
 {{< cta cta_text="Call for Papers: Notification of Acceptance by June 23, 2025" cta_link="/2025/cfp" >}}
-{{< cta cta_text="Call for Tutorials: Notification of Acceptance by June 2, 2025" cta_link="/2025/cft" >}}
 {{< cta cta_text="Call for Posters: Notification of Acceptance by June 23, 2025" cta_link="/2025/cfposters" >}}
 
 **Contact**: [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu)
