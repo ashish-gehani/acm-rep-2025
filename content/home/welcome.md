@@ -27,7 +27,8 @@ advanced:
   css_class:
 ---
 {{< cta cta_text="Register (early bird discount until July 7, 2025)" cta_link="/2025/registration" >}}
-{{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC), discounted rate until June 27th." cta_link="/2025/venue" >}}
+{{< cta cta_text="Book accommodation (discounted rate until June 27, 2025)" cta_link="https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=07%2F28%2F2025&endDate=08%2F01%2F2025&adults=1&children=&rooms=1&requesttype=invBlockCode&code=+%20G250727A" >}}
+{{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC)" cta_link="/2025/venue" >}}
 {{< cta cta_text="Call for Papers: Notification of Acceptance by June 23, 2025" cta_link="/2025/cfp" >}}
 {{< cta cta_text="Call for Posters: Notification of Acceptance by June 23, 2025" cta_link="/2025/cfposters" >}}
 
