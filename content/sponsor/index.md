@@ -9,9 +9,12 @@ sections:
     content:
       title: Sponsors
       text: |-
-        {{% callout warning %}}
-        Under construction -- Will be completed soon.
-        {{% /callout %}}
+        <table style="background-color:rgba(255, 255, 255, 0.1)">
+          <tr>
+            <td style="background-color:rgba(255, 255, 255, 0.5)" width="48%">{{% figure src="ubc-fos.png"%}}</td>
+            <td style="background-color:rgba(255, 255, 255, 0.5)" width="48%">{{% figure src="ubc-cs.png" %}}</td>
+          </tr>
+        </table>
     design:
       columns: '2'
 
