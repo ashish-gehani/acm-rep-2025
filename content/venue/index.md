@@ -8,7 +8,7 @@ sections:
   - block: markdown
     id: accommodation
     content:
-      title: Accommodation
+      title: Accommodations
       subtitle: ''
       text: |-
         We have arranged a **special conference rate** at UBC Suites, conveniently located within walking distance of the conference venue at Allard Hall.
