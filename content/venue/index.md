@@ -6,6 +6,30 @@ type: landing
 
 sections:
   - block: markdown
+    id: accommodation
+    content:
+      title: Accommodations
+      subtitle: ''
+      text: |-
+        We have arranged a **special conference rate** at UBC Suites, conveniently located within walking distance of the conference venue at Allard Hall.
+
+        Rooms are available at a discounted rate for stays between **July 28 and August 1, 2025**.
+        The discounted rate is available until June 27th.
+        We recommend booking early, as availability is limited. Preferred rates are only available for the dates above.
+
+        You can reserve your room directly through the following link:  
+        👉 [Book your UBC accommodation here](https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=07%2F28%2F2025&endDate=08%2F01%2F2025&adults=1&children=&rooms=1&requesttype=invBlockCode&code=+%20G250727A)
+
+        If you have any questions or require assistance, contact the Reservations Office at:
+
+        **Hotel Reservations Office**  
+        Conferences and Accommodation at UBC  
+        Phone: 604-822-1000 (x3) or toll-free: 1-888-822-1030  
+        Email: [reservations@housing.ubc.ca](mailto:reservations@housing.ubc.ca)
+    design:
+      columns: '2'
+
+  - block: markdown
     id: getting-there
     content:
       title: "Directions: Getting to UBC"
@@ -67,30 +91,6 @@ sections:
         [https://allard.ubc.ca/about-us/allard-hall](https://allard.ubc.ca/about-us/allard-hall)
 
         ![Allard Hall](https://allard.ubc.ca/sites/default/files/styles/max_970x970/public/2020-05/s07_1759.jpg)  
-    design:
-      columns: '2'
-
-
-  - block: markdown
-    id: accommodation
-    content:
-      title: Accommodation
-      subtitle: ''
-      text: |-
-        We have arranged a **special conference rate** at UBC Suites, conveniently located within walking distance of the conference venue at Allard Hall.
-
-        Rooms are available at a discounted rate for stays between **July 28 and August 1, 2025**.
-        We recommend booking early, as availability is limited. Preferred rates are only available for the dates above.
-
-        You can reserve your room directly through the following link:  
-        👉 [Book your UBC accommodation here](https://reserve.suitesatubc.com/vancouver/availability.asp?hotelCode=%2A&startDate=07%2F28%2F2025&endDate=08%2F01%2F2025&adults=1&children=&rooms=1&requesttype=invBlockCode&code=+%20G250727A)
-
-        If you have any questions or require assistance, contact the Reservations Office at:
-
-        **Hotel Reservations Office**  
-        Conferences and Accommodation at UBC  
-        Phone: 604-822-1000 (x3) or toll-free: 1-888-822-1030  
-        Email: [reservations@housing.ubc.ca](mailto:reservations@housing.ubc.ca)
     design:
       columns: '2'
 

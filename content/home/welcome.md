@@ -24,13 +24,21 @@ design:
   spacing:
     padding: ['20px', '0', '20px', '0']
 advanced:
-  css_class: 
+  css_class:
 ---
-{{< cta cta_text="Register (early bird discount until July 7, 2025)" cta_link="/2025/registration" >}}
+{{< cta cta_text="Registration: early bird discount until July 7, 2025" cta_link="/2025/registration" >}}
+{{< cta cta_text="Accommodations: discounted rate until June 27, 2025" cta_link="/2025/venue#accommodation" >}}
 {{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC)" cta_link="/2025/venue" >}}
 {{< cta cta_text="Call for Papers: Notification of Acceptance by June 23, 2025" cta_link="/2025/cfp" >}}
 {{< cta cta_text="Call for Posters: Notification of Acceptance by June 23, 2025" cta_link="/2025/cfposters" >}}
 
+Sponsors
+
+<table style="background-color: rgba(255, 255, 255, 0.1)">
+<tr>
+<td style="background-color: rgba(255, 255, 255, 0.5)" width="48%">{{% figure src="ubc-fos.png"%}}</td>
+<td style="background-color: rgba(255, 255, 255, 0.5)" width="48%">{{% figure src="ubc-cs.png" %}}</td>
+</tr>
+</table>
+
 **Contact**: [acmrep25-info-group@ucsc.edu](mailto:acmrep25-info-group@ucsc.edu)
-
-
