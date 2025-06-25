@@ -42,4 +42,12 @@ user_groups:
 
 **Abstract:** TBC
 
-**Biography:** I am a software engineer by training turned applied statistician in a School of Psychology. I am interested in how we experience our world and our impact in it. I work in a wide remit of fundamental research and industrial applications, including reproducibility of science / metascience, climate change science, machine learning, neuroscience and cyber psychology.
+**Biography:** MARGO I. SELTZER is Canada 150 Research Chair in Computer Systems and the Cheriton Family chair in Computer Science at the University of British Columbia. Her research interests are in systems, construed quite broadly: systems for capturing and accessing data provenance, file systems, databases, transaction processing systems, storage and analysis of graph-structured data, and systems for constructing optimal and interpretable machine learning models.
+
+She is the author of several widely-used software packages including database and transaction libraries and the 4.4BSD log-structured file system. Dr. Seltzer was a co-founder and CTO of Sleepycat Software, the makers of Berkeley DB, the recipient of the 2021 ACM Software Sytems award and the 2020 ACM SIGMOD Systems Award.
+
+She serves on the Computer Science and Telecommunications Board (CSTB) of the (US) National Academies. She is a past chair and vice-chair of the Computer Science Committee of the National Academy of Engineering and a past President of the USENIX Assocation. She served as the USENIX representative to the Computing Research Association Board of Directors and on the Computing Community Consortium.
+
+She is a member of the National Academy of Engineering and the American Academy of Arts and Sciences, a Sloan Foundation Fellow in Computer Science, an ACM Fellow, a Bunting Fellow, and was the recipient of the 1996 Radcliffe Junior Faculty Fellowship. She is also recognized as an outstanding teacher and mentor, having received the Phi Beta Kappa teaching award in 1996, the Abrahmson Teaching Award in 1999, the Capers and Marion McDonald Award for Excellence in Mentoring and Advising in 2010, the CRA-E Undergraduate Research Mentoring Award in 2017, and a UBC Killam Teaching prize in 2023.
+
+Professor Seltzer received an A.B. degree in Applied Mathematics from Harvard/Radcliffe College and a Ph. D. in Computer Science from the University of California, Berkeley.
