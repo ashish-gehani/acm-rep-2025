@@ -55,7 +55,7 @@ main:
     weight: 30
   - name: Agenda
     parent: program
-    # url: https://docs.google.com/document/d/1FIeUcsjyf3JVr64sj8gWoDJrNc6C0467Q0VPKKj2Ux4/edit?usp=sharing
+    url: agenda
     weight: 20
   - name: Featured Keynote Speakers
     parent: program
