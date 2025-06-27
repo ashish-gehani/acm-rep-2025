@@ -27,7 +27,7 @@ advanced:
 The ACM Conference on Reproducibility and Replicability invites poster submissions showcasing innovative research and practical insights. Submissions should consist of a 2-page extended abstract, formatted according to the ACM standard conference template, clearly highlighting the contribution's relevance to reproducibility and replicability. Abstracts will undergo a review for applicability and will be competitively selected based on quality and available poster space. More details [here](#submissions).
 
 {{< cta cta_text="Important Dates" cta_link="#deadlines" cta_new_tab="false" >}}
-{{< cta cta_text="Submissions Closed" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
+{{< cta cta_text="Submit Camera-ready copy" cta_link="https://easychair.org/my/conference?conf=acmrep2025" cta_new_tab="false" >}}
 
 We are using the following definitions of reproducibility and replicability as presented in the National Academies of Science, Engineering and Medicine report ["Reproducibility and Replication in Science"](https://doi.org/10.17226/25303) ([overview](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science)):
 
