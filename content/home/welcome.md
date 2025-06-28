@@ -26,10 +26,11 @@ design:
 advanced:
   css_class:
 ---
+
+{{< cta cta_text="Registration: early bird discount until July 7, 2025" cta_link="/2025/registration" >}}
+{{< cta cta_text="Accommodations: discounted rate until July 4, 2025" cta_link="/2025/venue#accommodation" >}}
 {{< cta cta_text="Keynotes" cta_link="/2025/keynotes" >}}
 {{< cta cta_text="Agenda" cta_link="/2025/agenda" >}}
-{{< cta cta_text="Registration: early bird discount until July 7, 2025" cta_link="/2025/registration" >}}
-{{< cta cta_text="Accommodations: discounted rate until June 27, 2025" cta_link="/2025/venue#accommodation" >}}
 {{< cta cta_text="Travel & Venue: Univeristy of British Columbia (UBC)" cta_link="/2025/venue" >}}
 
 Sponsors
