@@ -56,15 +56,19 @@ main:
   - name: Agenda
     parent: program
     url: agenda
-    weight: 20
+    weight: 10
   - name: Featured Keynote Speakers
     parent: program
     url: keynotes
+    weight: 20
+  - name: Tutorials
+    parent: program
+    url: tutorials
     weight: 30
   - name: Accepted Papers
     parent: program
     url: accepted
-    weight: 10
+    weight: 40
 #  - name: Proceedings
 #    parent: program
 #    url: https://dl.acm.org/doi/proceedings/10.1145/3589806
