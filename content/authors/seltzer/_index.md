@@ -41,9 +41,26 @@ user_groups:
 - Keynote Speaker
 ---
 
-**Title:** TBC
+**Title:** If Correct Science is the Goal, is Reproduction the Answer?
 
-**Abstract:** TBC
+**Abstract:** Science has become computational, introducing a second dimension
+to science that has mostly been ignored. The original dimension is the
+conventional scientific dimension focused on a question we want to answer.
+The research practices for addressing such questions are well-understood.
+The second dimension concerns the authenticity and veracity of data and
+computation applied to that data. Unfortunately, rather than recognizing
+this methodological dimension in its own right, we have tried to shoehorn
+it into existing practices, confusing the key principle underpinning the
+scientific method. That is, because we think it should be easy to reproduce
+computational artifacts, we strive for reproducibiity rather than
+replicability. Perhaps, we have made our jobs harder than we needed to?
+
+I'll begin by identifying the challenges we face in computational science,
+which are even more pronounced in the realm of AI. Then I'll discuss the
+confusion around reproduction and replications. Taking a step back, I'll
+attempt to derive, from first principles, what we need to properly validate
+computational experiments, and I'll conclude with some ideas on a path
+forward.
 
 **Biography:** MARGO I. SELTZER is Canada 150 Research Chair in Computer Systems and the Cheriton Family chair in Computer Science at the University of British Columbia. Her research interests are in systems, construed quite broadly: systems for capturing and accessing data provenance, file systems, databases, transaction processing systems, storage and analysis of graph-structured data, and systems for constructing optimal and interpretable machine learning models.
 
