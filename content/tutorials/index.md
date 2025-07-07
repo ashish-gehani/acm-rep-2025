@@ -23,7 +23,7 @@ Following a Bring Your Own Resource hands-on style, in this tutorial we will sho
 
 **Where:** Allard 113, remote presentation
 
-**Authors:** <u>Ozgur Kilic</u> (Brookhaven National Laboratory), Tianle Wang (Brookhaven National Laboratory), Matteo Turilli (Brookhaven National Laboratory), Mikhail Titov (Brookhaven National Laboratory), Andre Merzky (RADICAL-Computing Inc.), Line Pouchard (Sandia National Laboratories), and Shantenu Jha (Princeton Plasma Physics Laboratory)
+**Authors:** <u>Ozgur Kilic</u> (Brookhaven National Laboratory), Tianle Wang (Brookhaven National Laboratory), Matteo Turilli (Brookhaven National Laboratory), Mikhail Titov (Brookhaven National Laboratory), Andre Merzky (RADICAL-Computing Inc.), Line Pouchard (Sandia National Laboratories), and Shantenu Jha (PPPL, Princeton University)
 
 **Abstract:** Scientific workflows have become indispensable for managing complex computational tasks in high-performance computing (HPC) environments. However, their increasing complexity, scale, and heterogeneity often hinder reproducibility. Workflow mini-apps address these challenges by offering simplified yet faithful representations of complex workflows, enabling easier development, testing, and optimization. This three-hour tutorial introduces participants to workflow mini-apps and demonstrates their practical application to enhance reproducibility. The tutorial comprises three main segments:
 - Introduction to Workflow Mini-Apps: Participants will learn what workflow mini-apps are, their role in addressing the reproducibility crisis in scientific computing, and the balance between simplicity and fidelity in their design.
