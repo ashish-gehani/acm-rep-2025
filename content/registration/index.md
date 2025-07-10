@@ -27,7 +27,7 @@ groups to contact us.
 
 # Important Dates
 
-Early-bird registration close: <span style=color:blue;font-weight:bold>July 7</span>  
+<span style=color:grey>Early-bird registration close: July 7</span>  
 Author registration close: <span style=color:blue;font-weight:bold>July 15</span>  
 Registration close: July 25  
 Conference: July 29-31, 2025  
